@@ -33,10 +33,12 @@
 <h3>Principais Habilidades:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=00ff88" alt="Java"/>
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00ff88" alt="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ff88" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=00ff88" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=00ff88" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00ff88" alt="Python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ff88" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=00ff88" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=00ff88" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=00ff88" alt="PHP"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00ff88" alt="Bootstrap"/>
 </p>
 
 <h3>Frameworks / Ferramentas:</h3>
